@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/tameraydin/ngToast.git"
+    "url": "git://github.com/deco016/ngToast.git"
   },
   "author": "Tamer Aydin (http://tamerayd.in)",
   "contributors": [
@@ -28,11 +28,11 @@
   "license": "MIT",
   "homepage": "http://tameraydin.github.io/ngToast",
   "bugs": {
-    "url": "https://github.com/tameraydin/ngToast/issues"
+    "url": "https://github.com/deco016/ngToast/issues"
   },
   "dependencies": {
-    "angular": ">=1.2.15",
-    "angular-sanitize": ">=1.2.15"
+    "angular": ">=1.2.15 <1.8",
+    "angular-sanitize": ">=1.2.15 <1.8"
   },
   "devDependencies": {
     "caniuse-db": "latest",

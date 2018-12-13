@@ -1,5 +1,5 @@
 {
-  "name": "ngToast",
+  "name": "ng-toast",
   "version": "2.0.1",
   "description": "Angular provider for toast notifications",
   "main": [
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/tameraydin/ngToast.git"
+    "url": "git://github.com/deco016/ngToast.git"
   },
   "homepage": "http://tameraydin.github.io/ngToast",
   "authors": [
@@ -24,11 +24,11 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "angular": ">=1.2.15",
-    "angular-sanitize": ">=1.2.15"
+    "angular": ">=1.2.15 <1.8",
+    "angular-sanitize": ">=1.2.15 <1.8"
   },
   "devDependencies": {
-    "angular-animate": ">=1.2.17",
+    "angular-animate": ">=1.2.17 <1.8",
     "bootstrap": "~3.3.2",
     "Faker": "~2.1.2"
   },
