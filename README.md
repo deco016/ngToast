@@ -7,13 +7,11 @@ ngToast is a simple Angular provider for toast notifications.
 
 ## Usage
 
-1. Install via [Bower](http://bower.io/) or [NPM](http://www.npmjs.org):
+1. Install via [Bower](http://bower.io/):
   ```bash
-  bower install ngtoast --production
-  # or
-  npm install ng-toast --production
+  bower install ng-toast --production
   ```
-  or manually [download](https://github.com/tameraydin/ngToast/archive/master.zip).
+  or manually [download](https://github.com/deco016/ngToast/archive/master.zip).
 
 2. Include ngToast source files and dependencies ([ngSanitize](http://docs.angularjs.org/api/ngSanitize), [Bootstrap CSS](http://getbootstrap.com/)):
   ```html
@@ -101,7 +99,7 @@ Please find at the [project website](http://tameraydin.github.io/ngToast/#api).
 
 ## Development
 
-* Clone the repo or [download](https://github.com/tameraydin/ngToast/archive/master.zip)
+* Clone the repo or [download](https://github.com/deco016/ngToast/archive/master.zip)
 * Install dependencies: ``npm install && bower install``
 * Run ``grunt watch``, play on **/src**
 * Build: ``grunt``
