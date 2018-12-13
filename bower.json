@@ -24,11 +24,11 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "angular": ">=1.2.15 <1.7",
+    "angular": ">=1.2.15 <=1.7.5",
     "angular-sanitize": ">=1.2.15 <1.7"
   },
   "devDependencies": {
-    "angular-animate": ">=1.2.17 <1.7",
+    "angular-animate": ">=1.2.17 <=1.7.5",
     "bootstrap": "~3.3.2",
     "Faker": "~2.1.2"
   },
